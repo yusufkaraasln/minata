@@ -2,7 +2,6 @@
 
 Minata is a cross-platform dating application developed using React Native. It allows users to chat, like profiles, see online users, view photos, check their balance, and perform registration and login processes.
 
-![Minata Screenshot](screenshot.png)
 
 ## Features
 
